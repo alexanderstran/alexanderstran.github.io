@@ -10,4 +10,4 @@ published: true
 
 User Experience Designer in San Francisco making tools, services, and spaces that work for people.
 
-[alexandertran@gmail.com](mailto:email@domain.com)
+[Email me to get in touch.](mailto:alexandertran@gmail.com)
